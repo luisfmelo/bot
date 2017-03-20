@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/PHPMap/bot/blob/master/public/img/github_bot_love.png"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/phpmap/bot"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://travis-ci.org/phpmap/bot"><img src="https://travis-ci.org/phpmap/bot.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/phpmap/bot"><img src="https://poser.pugx.org/phpmap/bot/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/phpmap/bot"><img src="https://poser.pugx.org/phpmap/bot/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/phpmap/bot"><img src="https://poser.pugx.org/phpmap/bot/license.svg" alt="License"></a>
