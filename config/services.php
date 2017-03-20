@@ -37,7 +37,7 @@ return [
 
     'botman' => [
         'hipchat_urls' => [
-            env('HIPCHAT_URL')
+            env('HIPCHAT_URL'),
         ],
         'microsoft_bot_handle' => env('MICROSOFT_BOT_HANDLE'),
         'microsoft_app_id' => env('MICROSOFT_APP_ID'),
@@ -46,7 +46,7 @@ return [
         'nexmo_secret' => env('NEXMO_SECRET'),
         'slack_token' => env('SLACK_TOKEN'),
         'telegram_token' => env('TELEGRAM_TOKEN'),
-        'facebook_token' => env('FACEBOOK_TOKEN')
+        'facebook_token' => env('FACEBOOK_TOKEN'),
     ],
 
 ];
