@@ -10,6 +10,7 @@
         "laravel/tinker": "~1.0",
         "mpociot/botman": "^1.4",
         "mpociot/slack-client": "^0.2.9",
+        "pda/pheanstalk": "^3.1",
         "predis/predis": "^1.1"
     },
     "require-dev": {
