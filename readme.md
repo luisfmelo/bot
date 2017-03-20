@@ -13,7 +13,7 @@
 The bot is always present in our slack-channels.
 He allows you to easily search for users, meetups and other resources in your location.
 
-The bot has it´s foundation built on [BotMan](https://botman.io), a simple Bot-Framework for PHP built by @mpociot.
+The bot has it´s foundation built on [BotMan](https://botman.io), a simple Bot-Framework for PHP built by [@mpociot](https://github.com/mpociot).
 
 ## Extending the Bot
 
