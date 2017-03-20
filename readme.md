@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/PHPMap/bot/blob/master/public/img/github_bot_love.png"></p>
 
 <p align="center">
-<script async defer src="https://now-examples-slackin-cggnnsrads.now.sh/slackin.js"></script>
+<a href="https://now-examples-slackin-cggnnsrads.now.sh"><img src="https://now-examples-slackin-cggnnsrads.now.sh/badge.svg" alt="Build Status"></a>
 <a href="https://travis-ci.org/PHPMap/bot"><img src="https://travis-ci.org/PHPMap/bot.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/phpmap/bot"><img src="https://poser.pugx.org/phpmap/bot/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/phpmap/bot"><img src="https://poser.pugx.org/phpmap/bot/v/stable.svg" alt="Latest Stable Version"></a>
