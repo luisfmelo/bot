@@ -75,6 +75,7 @@
                 <div class="links">
                     <a href="https://phpmap.co">PHPMap</a>
                     <a href="https://botman.io">BotMan.io</a>
+                    <a href="https://github.com/PHPMap/bot">GitHub</a>
                 </div>
             </div>
         </div>
