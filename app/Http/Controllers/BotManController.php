@@ -2,9 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Conversations\ExampleConversation;
-use Illuminate\Http\Request;
 use Mpociot\BotMan\BotMan;
+use App\Conversations\ExampleConversation;
 
 class BotManController extends Controller
 {
@@ -24,7 +23,7 @@ class BotManController extends Controller
     }
 
     /**
-     * Loaded through routes/botman.php
+     * Loaded through routes/botman.php.
      * @param  BotMan $bot
      */
     public function startConversation(BotMan $bot)
